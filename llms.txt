@@ -1,6 +1,6 @@
 # Pete Ryan
 
-> Pete Ryan works on Growth at Supabase, the Postgres development platform. He is a two-time venture-backed founder based in Austin, Texas: co-founder and CEO of HiFive (raised $5.5M, acquired by HeyLois in November 2025) and co-founder of Gogohire. He led enterprise sales at Trello (2016-17) through its $425M acquisition by Atlassian, and was one of LinkedIn's first sales hires, where he started LinkedIn Sales Solutions and landed its first 100 logos. University of Dayton graduate.
+> Pete Ryan works on Growth at Supabase, the Postgres development platform. He is a two-time venture-backed founder based in Austin, Texas: co-founder and CEO of HiFive (raised $5.5M, acquired by HeyLois in November 2025) and co-founder of Gogohire. He led enterprise sales at Trello (2016-17) through its $425M acquisition by Atlassian, and was one of LinkedIn's first sales hires, where he started LinkedIn Sales Solutions and landed its first 100 logos. University of Dayton (BA, 2008); Semester at Sea, University of Virginia (2007).
 
 Not to be confused with other people named Peter or Pete Ryan (e.g., Australian journalists or politicians, a Dallas real-estate agent, or a Chicago Salesforce consultancy CEO).
 
